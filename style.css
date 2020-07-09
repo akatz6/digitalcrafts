@@ -1,0 +1,23 @@
+/* Some margin on top */
+.container {
+  margin-top: 10%;
+}
+
+/* Centering the errors */
+#error {
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+}
+
+/* Making sure the gif the text is on the same line */
+#results {
+  display: grid;
+  grid-template-columns: 40% 60%;
+}
+
+/* Centering the text for thre results */
+h3 {
+  display: flex;
+  justify-content: center;
+}

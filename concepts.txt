@@ -1,0 +1,27 @@
+Here are the main concepts we will be using for this lesson.
+
+I encourage you to take a quick look at the documentation
+to get a better understadning.
+
+HTML
+
+Bootstrap
+  Documentation: https://getbootstrap.com/
+
+CSS
+
+Flex
+  Documentation: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Grid
+  Documentation: https://css-tricks.com/snippets/css/complete-guide-grid/
+
+JavaScript
+
+XMLHttpRequest  
+  Documentation: https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+
+OpenWeatherApi
+  Documentation: https://openweathermap.org/current
+
+getElementById
+  Documentation: https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
